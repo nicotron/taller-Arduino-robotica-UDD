@@ -1,4 +1,4 @@
-// comentario para ver si pasa algo con el SSH--
+// comentario para ver si pasa algo con el SSH
 int miLed = 13; // He creado una variable global de tipo entero con valor 13,
 
 void setup() {
